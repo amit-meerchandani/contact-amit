@@ -32,7 +32,7 @@ Check out the live demo [here](#).
 
 ## Screenshots
 
-![Contact Form](https://i.ibb.co/zhvRdTz/image.png) *<!-- Placeholder for a screenshot of the contact form -->*
+![Contact Form](https://i.ibb.co/zhvRdTz/image.png) *<!-- Placeholder for a screenshot of the contact form -->
 
 ![Contact Form](https://i.ibb.co/Fm1707B/image.png) *<!-- Placeholder for a screenshot of the contact form -->*
 
