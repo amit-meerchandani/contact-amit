@@ -28,7 +28,7 @@ Check out the live demo [here](#).
 
 1. **Open the Home Page:** Navigate to the home page on your local server.
 2. **Fill the Form:** Enter your name, email, subject, and message.
-3. **Submit:** Hit the send button and your message will be delivered to your configured email via Nodemailer.
+3. **Submit:** Hit the submit button and your message will be delivered to your configured email via Nodemailer.
 
 ## Screenshots
 
