@@ -1,6 +1,6 @@
 # contact-amit
 
-Welcome to **contact-amit**, a sleek and modern contact page built using **Next.js** and **Nodemailer API**. This project showcases a contact form where users can easily get in touch by providing their name, email, subject, and message. 🚀
+Welcome to **contact-amit**, a sleek and modern contact page built using **Next.js** and **Nodemailer API**. This project features a simple yet elegant contact form where users can easily get in touch by providing their name, email, subject, and message. 🚀
 
 ![contact-amit](#) *<!-- Placeholder for the main screenshot of your website -->*
 
@@ -26,13 +26,11 @@ Check out the live demo [here](#).
 
 ## Usage
 
-1. **Open the Contact Page:** Navigate to `/contact` on your local server.
+1. **Open the Home Page:** Navigate to the home page on your local server.
 2. **Fill the Form:** Enter your name, email, subject, and message.
 3. **Submit:** Hit the send button and your message will be delivered to your configured email via Nodemailer.
 
 ## Screenshots
-
-![Home Page](#) *<!-- Placeholder for a screenshot of the home page -->*
 
 ![Contact Form](#) *<!-- Placeholder for a screenshot of the contact form -->*
 
